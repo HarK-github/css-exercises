@@ -1,7 +1,14 @@
 body {
   font-family: 'Courier New', Courier, monospace;
 }
-
+.head{
+  display: flex;
+  justify-content: center;
+}
+.image{
+  display: flex;
+  
+}
 img {
   width: 100px;
   height: 100px;
